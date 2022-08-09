@@ -1,2 +1,0 @@
-print ("testando")
-print ("teste")
